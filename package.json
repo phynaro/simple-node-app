@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phynaro/simple-node-app.git"
+  },
+  "author": "Jirawuth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phynaro/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/phynaro/simple-node-app#readme"
+}
